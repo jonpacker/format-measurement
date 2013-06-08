@@ -20,7 +20,6 @@ var metricVolume = {
 
 function createFormatter(formatters) {
   var breakpoints = Object.keys(formatters).map(parseFloat).sort().reverse();
-  console.log(breakpoints)
   return function(num) {
     var i = 0;
     var formatter = breakpoints[i];
