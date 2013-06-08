@@ -9,10 +9,10 @@
   "scripts": {
     "test": "mocha -R spec"
   },
-  "repository": "",
-  "author": "",
-  "license": "BSD",
-  "dependencies": {
+  "repository": "git@github.com:jonpacker/format-measurement.git",
+  "author": "Jon Packer",
+  "license": "MIT",
+  "devDependencies": {
     "mocha": "~1.10.0"
   }
 }
