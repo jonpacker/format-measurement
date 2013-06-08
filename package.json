@@ -1,0 +1,15 @@
+{
+  "name": "format-measurement",
+  "version": "0.1.0",
+  "description": "Prettify measurements to readable strings.",
+  "main": "format-measurement.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD"
+}
