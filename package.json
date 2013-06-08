@@ -1,6 +1,6 @@
 {
   "name": "format-measurement",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Prettify measurements to readable strings.",
   "main": "format-measurement.js",
   "directories": {
